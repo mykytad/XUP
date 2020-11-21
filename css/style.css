@@ -78,3 +78,33 @@ h2 span{
 .team{
 	padding-top: 268px;
 }
+.team_pict{
+	padding-bottom: 32px;
+}
+.craft{
+	padding-top: 200px;
+}
+.craft_head{
+	margin-bottom: 64px;
+}
+.craft_skill{
+	margin-top: 67px;
+}
+.craft_skill_item{
+	padding-top: 60px;
+}
+.craft_research{
+	background: url(../img/find_in_page.png) no-repeat 3% 0;
+}
+.craft_design{
+	background: url(../img/view_quilt.png) no-repeat 3% 0;
+}
+.craft_interface{
+	background: url(../img/category.png) no-repeat 3% 0;
+}
+.craft_usability{
+	background: url(../img/visibility.png) no-repeat 3% 0;	
+}
+.skill{
+	padding-top: 200px;
+}
