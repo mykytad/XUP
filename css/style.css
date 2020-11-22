@@ -108,3 +108,66 @@ h2 span{
 .skill{
 	padding-top: 200px;
 }
+.skill_head{
+	margin-bottom: 24px;
+}
+.skill_description{
+	margin-bottom: 64px;
+}
+.more_skills{
+	position: relative;
+}
+.more_skills:before{
+	content: "";
+	position: absolute;
+	width: 502px;
+	height: 100%;
+	left: 0;
+	background: linear-gradient(90deg, rgba(255, 255, 255, 0.99) 22.56%, rgba(255, 255, 255, 0) 82.03%);
+}
+.more_skills:after{
+	content:"";
+	position:absolute;
+	width:502px;
+	height:100%;
+	right:0;
+	background: linear-gradient(270.44deg, rgba(255, 255, 255, 0.98) 46.22%, rgba(255, 255, 255, 0) 89.77%);
+}
+.more_skills_item{
+	font-weight: 400;
+	font-size: 30px;
+	color:#2D2D30;
+	text-align: justify;
+	margin-top: 24px;
+	margin-bottom: 24px;
+}
+.more_skills_item span{
+	margin-right: 60px;
+	margin-left: 60px;
+}
+.underline{
+ text-decoration: underline;
+}
+.interface{
+	padding-top: 200px;
+}
+.interface_head{
+	margin-bottom: 24px;
+}
+.interface_description{
+	margin-bottom: 64px;
+	width: 874px;
+}
+.interface_img{
+	/*width: 328px;*/
+}
+.interface h3{
+	margin-top: 23px;
+}
+.our-work{
+	padding-top: 200px;
+	
+}
+.our-work_head{
+	margin-bottom: 64px;
+}
