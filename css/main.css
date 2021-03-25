@@ -87,8 +87,8 @@ h2 span{
 		margin-bottom: 32px;
 	}
 	.team_img{
-		margin-right: 48px;
-		margin-bottom: 32px;
+		/*margin-right: 48px;*/
+		margin-bottom: 20px;
 	}
 /*are_we_doing*/
 	.are_we_doing_heading{
@@ -266,4 +266,27 @@ h2 span{
 	}
 	.questions_discription a{
 		color:#2D2D30;
+	}
+/*footer*/
+	.footer_form{
+
+	}
+	.footer_form>p{
+		margin-bottom: 0;
+	}
+	.footer_form>p>span{
+		color: #1421FF;
+	}
+	.footer_form>input{
+		border:none;
+		background: #F5F5F5;
+		border-radius: 8px;
+		padding-left: 16px;
+		padding-top: 12px;
+		padding-bottom: 12px;
+		margin-bottom: 16px;
+		margin-top: 4px;
+	}
+	.footer_form>.btn{
+		margin-top: 8px;
 	}
