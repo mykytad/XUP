@@ -269,7 +269,7 @@ h2 span{
 	}
 /*footer*/
 	.footer_form{
-
+		padding-bottom: 286px;
 	}
 	.footer_form>p{
 		margin-bottom: 0;
@@ -284,6 +284,16 @@ h2 span{
 		padding-left: 16px;
 		padding-top: 12px;
 		padding-bottom: 12px;
+		margin-bottom: 16px;
+		margin-top: 4px;
+	}
+	.footer_form>textarea{
+		border:none;
+		background: #F5F5F5;
+		border-radius: 8px;
+		padding-left: 16px;
+		padding-top: 14px;
+		padding-bottom: 66px;
 		margin-bottom: 16px;
 		margin-top: 4px;
 	}
